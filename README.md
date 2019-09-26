@@ -32,7 +32,6 @@ Boot Time/CPU/Default Gateway/DHCP Server/DNS Server/Free Space/Host Name/IE Ver
 ![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Biginfo%20site.jpg)   
 当然可以用来记笔记、当备忘录使  
 ![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Biginfo%20note.jpg)   
-## BrowsingHistoryView ##
 ## Cacheset ##
 ## Clockres ##
 ## Contig ##
@@ -91,3 +90,9 @@ Boot Time/CPU/Default Gateway/DHCP Server/DNS Server/Free Space/Host Name/IE Ver
 ##  ##
 ##  ##
 ##  ##
+======================================misc=========================================
+## BrowsingHistoryView ##
+在以下浏览器历史记录中搜索指定字符“github”  
+![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/browsinghistory.jpg)   
+即可查看到记录  
+![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/browsinghistory1.jpg)   
