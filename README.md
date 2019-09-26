@@ -1,5 +1,5 @@
 # Sysinternals
-## Adexploer ##
+## Adexploer - 域控info拓展 ##
 登录之后即可查看到域的各种元数据  
 ![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/ADExplorer.jpg)  
 查找关键有效字段  
