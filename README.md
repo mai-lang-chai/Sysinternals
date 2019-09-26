@@ -49,6 +49,7 @@ contig[-v] [-a] [-q] [-s] [文件名]
 用法如下
 ![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Coreinfo.jpg)   
 ![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Coreinfol.jpg)   
+## ctrl2cap ##
 ## Dbgview ##
 ## Desktops ##
 ## DiskView ##
