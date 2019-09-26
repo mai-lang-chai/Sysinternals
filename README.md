@@ -54,44 +54,51 @@ CacheSet 允许您处理系统文件缓存中的工作集参数。CacheSet 可�
 ## RAMMap ##
 ## RegDelNull ##
 ## ShareEnum ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
-##  ##
+## ShellRunas ##
+## Sysmon ##
+## TCPVIEW ##
+## Testlimit ##
+## Volumeid ##
+## Winobj ##
+## Zoomlt ##
+## accesschk ##
+## adrestore ##
+## ctrl2cap ##
+## doskext ##
+## du ##
+## efsdump ##
+## handle ##
+## hex2dec ##
+## junction ##
+## ldmdump ##
+## livekd ##
+## logonsessions ##
+## movefile ##
+## notmyfault ##
+## ntfsinfo ##
+## pagedfrg ##
+## pendmoves ##
+## pipelist ##
+## portmon ##
+## procdump ##
+## procexp ##
+## psfile ##
+## pskill ##
+## pslist ##
+## psloglist ##
+## pspasswd ##
+## psping ##
+## psshutdown ##
+## pssuspend ##
+## regjump ##
+## ru ##
+## sdelete ##
+## sigcheck ##
+## stream ##
+## string ##
+## sync ##
+## vmmap ##
+## whois ##
 ======================================misc======================================
 ## BrowsingHistoryView ##
 在以下浏览器历史记录中搜索指定字符“github”  
