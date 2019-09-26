@@ -37,6 +37,13 @@ CacheSet 允许您处理系统文件缓存中的工作集参数。CacheSet 可�
 查看计时器分辨率
 ![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/clockres.jpg)   
 ## Contig ##
+磁盘碎片整理工具
+contig[-v] [-a] [-q] [-s] [文件名]
+使用 -v 开关可以使 Contig打印出所执行的文件碎片整理操作的信息。如果您只希望看到一个或多个文件的碎片化程度，请使用 -a 开关令 Contig分析碎片。使用 –s 开关，可以在用通配符指定文件名时递归执行子目录处理。例如，要对 c:\winnt 下的所有 DLL 文件进行碎片整理，您可以输入“contig -s c:\winnt\*.dll”。-q 开关覆盖 -v 开关，使 Contig在“静默”模式下运行，此时碎片整理过程中打印出的唯一内容就是摘要信息。
+![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/contig.jpg)   
+也可以使用GUI版本，更加高效快捷，多任务并发
+![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/contigG.jpg)   
+![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/contigG1.jpg)   
 ## Coreinfo ##
 ## Dbgview ##
 ## Desktops ##
