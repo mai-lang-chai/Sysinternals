@@ -28,10 +28,9 @@ Boot Time/CPU/Default Gateway/DHCP Server/DNS Server/Free Space/Host Name/IE Ver
 ![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/BIginfo.jpg)   
 可以设置字体颜色  
 ![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Biginfo%20color.jpg)   
-可以选择嵌入位置  
-![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Biginfo%20site.jpg)   
-当然可以用来记笔记、当备忘录使  
-![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Biginfo%20note.jpg)   
+可以选择嵌入位置，也用来记笔记、当备忘录使。
+![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/B.jpg)   
+  
 ## Cacheset ##
 CacheSet 允许您处理系统文件缓存中的工作集参数。CacheSet 可以在所有版本的 NT 上运行，而且在不对新 Service Pack 版本进行修改的情况下也可运行。除了使您能够控制工作集大小的最小值和最大值，它还允许您重置缓存的工作集，强制它在必要时从一个最小的起点开始增长。CacheSet 的更改会对缓存的大小立即产生影响。注意：要在 NT 4.0 Service Pack 4 上使用 CacheSet，您必须拥有“增加配额”的权限（管理员账户默认拥有此权限）
 ![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/cache.jpg)   
