@@ -45,6 +45,10 @@ contig[-v] [-a] [-q] [-s] [文件名]
 ![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/contigG.jpg)   
 ![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/contigG1.jpg)   
 ## Coreinfo ##
+可以提供有关处理器、组织结构和高速缓存拓扑的有用信息。可以逻辑显示处理器和物理内存之间的映射关系，此外还能显示NUMA节点、组、插槽以及所有级别的高速缓存  
+用法如下
+![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Coreinfo.jpg)   
+![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Coreinfol.jpg)   
 ## Dbgview ##
 ## Desktops ##
 ## DiskView ##
