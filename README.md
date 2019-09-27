@@ -62,7 +62,10 @@ Windows虚拟桌面，但在4个虚拟机中同时打开chrome的话，内存是
 详细教程https://wenku.baidu.com/view/2ab4e44aa76e58fafab003a5.html
 ![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/disk2vhd.jpg)
 ## DiskView ##
-
+查看一个直观的磁盘空间使用情况  
+![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Diskv.jpg)
+配合Power Defragmenter GUI整理碎片之后  
+![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Diskv1.jpg)
 ## FindLinks ##
 ## Listdlls ##
 ## LoadOrd ##
