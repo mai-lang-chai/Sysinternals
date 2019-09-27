@@ -49,9 +49,14 @@ contig[-v] [-a] [-q] [-s] [文件名]
 用法如下
 ![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Coreinfo.jpg)   
 ![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Coreinfol.jpg)   
-## ctrl2cap ##
 ## Dbgview ##
+捕捉内核模式调试输出,开发人员使用的多，详细教程看chm
+![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/dbgview.jpg)   
 ## Desktops ##
+Windows虚拟桌面，但在4个虚拟机中同时打开chrome的话，内存是4个chrome在吃
+![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Desktops.jpg)   
+设置快捷键切换桌面，任务管理器关闭程序
+![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Desktops1.jpg)   
 ## DiskView ##
 ## FindLinks ##
 ## Listdlls ##
