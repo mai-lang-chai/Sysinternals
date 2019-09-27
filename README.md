@@ -57,6 +57,10 @@ Windows虚拟桌面，但在4个虚拟机中同时打开chrome的话，内存是
 ![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Desktops.jpg)   
 设置快捷键切换桌面，任务管理器关闭程序  
 ![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/Desktops1.jpg)   
+## disk2vhd ##
+物理机转存虚拟机  
+详细教程https://wenku.baidu.com/view/2ab4e44aa76e58fafab003a5.html
+![image](https://github.com/mai-lang-chai/Sysinternals/blob/master/pic/disk2vhd.jpg)
 ## DiskView ##
 
 ## FindLinks ##
